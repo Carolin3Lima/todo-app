@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "incremental": true,
+    "removeComments": true,
+    "strictPropertyInitialization": false
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    ".eslintrc.js"
+  ]
+}
