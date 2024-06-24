@@ -20,7 +20,7 @@ This project is a simple to-do list application structured using Atomic Design p
 
 ## Testing
 
-# Jest
+### Jest
 Jest is used for testing. You can run tests using:
 
 ```sh
