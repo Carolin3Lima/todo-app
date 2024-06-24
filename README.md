@@ -18,9 +18,37 @@ This project is a simple to-do list application structured using Atomic Design p
 - Persist tasks using local storage
 - Edit task names
 
+## Testing
+
+#Jest
+Jest is used for testing. You can run tests using:
+
+```sh
+npm test
+```
+
+## ESLint
+
+ESLint is used for linting TypeScript code. You can run ESLint using:
+
+```sh
+npx eslint .
+```
+
 ## How to Run
+
+To run the application locally, follow these steps:
+
+1. Install dependencies:
 
 ```sh
 npm install
+```
+
+2. Start the development server:
+
+```sh
 npm start
 ```
+
+Open http://localhost:3000 to view it in the browser.
